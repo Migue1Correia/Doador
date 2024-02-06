@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doador.domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54245c9622443f12d30cb5ca740a6c5247d4e2b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doador.domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doador.domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

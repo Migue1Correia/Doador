@@ -1,0 +1,16 @@
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\bin\Debug\net8.0\Doador.Repository.deps.json
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\bin\Debug\net8.0\Doador.Repository.dll
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\bin\Debug\net8.0\Doador.Repository.pdb
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\bin\Debug\net8.0\Doador.domain.dll
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\bin\Debug\net8.0\Doador.domain.pdb
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.csproj.AssemblyReference.cache
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.AssemblyInfoInputs.cache
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.AssemblyInfo.cs
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.csproj.CoreCompileInputs.cache
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.sourcelink.json
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.csproj.CopyComplete
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.dll
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\refint\Doador.Repository.dll
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\Doador.Repository.pdb
+C:\Users\miguel.scorreia1\source\repos\Doador.Api\Doador.Repository\obj\Debug\net8.0\ref\Doador.Repository.dll

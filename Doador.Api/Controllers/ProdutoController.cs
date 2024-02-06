@@ -1,12 +1,25 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Doador.domain.Command;
+using Doador.domain.Interfaces;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Doador.Api.Controllers
 {
-    public class ProdutoController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ProdutoController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly IProdutoService _ProdutoService;
+        public ProdutoController(IProdutoService ProdutoService)
         {
-            return View();
+            _ProdutoService = ProdutoService;
+        }
+        [HttpPost]
+        [Route("CadastrarProduto")]
+        public async Task<IActionResult> PostAsync([FromBody] ProdutoCommand command)
+
+        {
+            return Ok(await _ProdutoService.PostAsync(command));
         }
     }
 }
